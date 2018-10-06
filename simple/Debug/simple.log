@@ -1,0 +1,115 @@
+﻿生成启动时间为 2018/10/4 17:22:04。
+     1>项目“D:\work\3 tiers scheduling_system_ddl\simple\simple\simple.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\simple.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt processing.cpp
+         processing.cpp
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(69): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(102): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(159): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(173): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(177): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(196): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(206): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(210): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(295): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(343): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(382): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(412): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(428): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(437): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(439): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(443): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(445): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(455): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(475): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(516): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(154): warning C4101: “sum”: 未引用的局部变量
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(141): warning C4101: “sumtime”: 未引用的局部变量
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(54): warning C4101: “vol1”: 未引用的局部变量
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(543): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(575): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(594): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(601): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(609): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(615): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(644): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(656): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(665): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(701): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(716): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(734): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(744): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(768): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(725): warning C4101: “j”: 未引用的局部变量
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(781): warning C4101: “i”: 未引用的局部变量
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(781): warning C4101: “j”: 未引用的局部变量
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(815): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(818): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(891): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(894): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(897): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(908): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(910): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(913): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(981): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(993): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(996): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(998): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(1010): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(1019): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(1025): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(1028): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(1038): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(1041): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(1043): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(1065): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(1067): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(1068): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(1078): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(1076): warning C4101: “k”: 未引用的局部变量
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(1115): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(1113): warning C4101: “k”: 未引用的局部变量
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(1196): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(1207): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(1229): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(1241): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(1250): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(1286): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(1334): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(1340): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(1342): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(1357): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(1359): warning C4244: “参数”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(1360): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(1383): warning C4244: “参数”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(1423): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(1435): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(1446): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(1458): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(1460): warning C4244: “参数”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(1462): warning C4244: “参数”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(1471): warning C4244: “参数”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(1472): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(1496): warning C4244: “参数”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(1499): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(1504): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(1505): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(1508): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(1509): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(1512): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(1554): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(1562): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>d:\work\3 tiers scheduling_system_ddl\simple\simple\processing.cpp(1299): warning C4101: “flag2”: 未引用的局部变量
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\work\3 tiers scheduling_system_ddl\simple\Debug\simple.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\work\3 tiers scheduling_system_ddl\simple\Debug\simple.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\work\3 tiers scheduling_system_ddl\simple\Debug\simple.lib" /MACHINE:X86 Debug\processing.obj
+         Debug\in_out_print.obj
+         Debug\math.obj
+         Debug\partition.obj
+         Debug\simple.obj
+         Debug\server.obj
+         simple.vcxproj -> D:\work\3 tiers scheduling_system_ddl\simple\Debug\simple.exe
+     1>已完成生成项目“D:\work\3 tiers scheduling_system_ddl\simple\simple\simple.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.96
